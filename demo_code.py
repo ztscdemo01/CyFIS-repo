@@ -2,7 +2,7 @@
 
 """
 Simple script to create a new incident, specifying values for custom fields.
-#11
+#13
 """
 from __future__ import print_function
 from argparse import REMAINDER
